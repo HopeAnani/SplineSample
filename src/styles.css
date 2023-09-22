@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background: #0B0B0B;
 }
 html,
 body {
@@ -8,4 +9,10 @@ body {
 }
 canvas {
   display: block;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  left: 50%;
 }
